@@ -1,6 +1,6 @@
 ## Loss Landscape of Shallow ReLU-like Neural Networks:  Stationary Points, Saddle Escaping, and Network Embedding
 
-This repository is for the paper [arXiv preprint arXiv:2402.05626]().
+
 
 To see the results, you can run the following code:
 
